@@ -1,4 +1,4 @@
-# oi, eu sou a carol 👋
+# oi, eu sou a carol
 
 <img src="https://github.com/carolprimila/carolprimila/raw/main/oioioioi.gif" width="100px">
 
