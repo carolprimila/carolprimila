@@ -22,4 +22,4 @@
 
 ## onde me encontrar ?
 - [linkedin](https://linkedin.com/in/seu-link-aqui)  
-- [instagram](https://www.instagram.com/carolprimila)
+- [![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)(https://www.instagram.com/carolprimila)
