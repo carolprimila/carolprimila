@@ -1,8 +1,6 @@
 ## 👋 oi, eu sou a carol
 
-<a href="https://github.com/carolprimila/carolprimila/raw/main/oioioioi.mp4" target="_blank">
-  <img src="https://img.shields.io/badge/assista%20o%20vídeo-ff69b4?style=for-the-badge&logo=video&logoColor=white" alt="assista o vídeo">
-</a>
+<a href="https://github.com/carolprimila/carolprimila/raw/main/oioioioi.mp4" target="_blank"> </a>
 
 🎓 estudante de **sistemas de informação**  
 💻 estagiária na **itaipu binacional – divisão de microinformática**  
