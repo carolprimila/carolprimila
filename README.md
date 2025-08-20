@@ -15,12 +15,11 @@
 - foco atual: estruturas de dados e estudos para concursos   
 
 ---
-
-## 📊 estatísticas do github
+<!-- ## 📊 estatísticas do github 
 ![carol's github stats](https://github-readme-stats.vercel.app/api?username=carolprimila&show_icons=true&theme=dracula)  
 ![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolprimila&layout=compact&theme=dracula)
 
----
+--- -->
 
 ## onde me encontrar ?
 
