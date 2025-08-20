@@ -22,9 +22,9 @@
 
 ## 📫 onde me encontrar
 
-<a href="https://linkedin.com/in/seu-link-aqui" target="_blank">
+<a href="https://linkedin.com/in/carolineprimila" target="_blank">
   <img align="center" alt="linkedin" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
-<a href="https://instagram.com/seu-user-aqui" target="_blank">
+<a href="https://instagram.com/carolprimila" target="_blank">
   <img align="center" alt="instagram" width="30px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" />
 </a>
