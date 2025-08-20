@@ -1,4 +1,4 @@
-# oi, eu sou a carol
+# oi, eu sou a carol !!
 
 <img src="https://github.com/carolprimila/carolprimila/raw/main/oioioioi.gif" width="100px">
 
@@ -12,7 +12,7 @@
 
 - estou aprendendo: c#, python 
 - conheço o básico de: html, css, javascript, typescript
-- foco atual: estruturas de dados e estudos para concursos   
+- ferramentas: vscode, visual studio, github 
 
 ---
 <!-- ## 📊 estatísticas do github 
