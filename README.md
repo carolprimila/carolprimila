@@ -1,16 +1,20 @@
-# oi, eu sou a carol 👋
+## 👋 oi, eu sou a carol
+
+<a href="https://github.com/carolprimila/carolprimila/raw/main/oioioioi.mp4" target="_blank">
+  <img src="https://img.shields.io/badge/assista%20o%20vídeo-ff69b4?style=for-the-badge&logo=video&logoColor=white" alt="assista o vídeo">
+</a>
 
 🎓 estudante de **sistemas de informação**  
 💻 estagiária na **itaipu binacional – divisão de microinformática**  
-🚀 objetivo: seguir carreira em **suporte de ti**  
 📍 paraná, brasil  
 
 ---
 
-## 🛠️ tecnologias e ferramentas
-- **linguagens:** c, c#, sql, python (básico)  
-- **ferramentas:** git/github, power automate, windows server  
-- **estudando agora:** estruturas de dados, direito para concursos  
+## tecnologias e ferramentas
+
+- estou aprendendo: c#, python 
+- conheço o básico de: html, css, javascript, typescript
+- foco atual: estruturas de dados e estudos para concursos   
 
 ---
 
@@ -20,7 +24,7 @@
 
 ---
 
-## 📫 onde me encontrar
+## onde me encontrar ?
 
 <a href="https://linkedin.com/in/carolineprimila" target="_blank">
   <img align="center" alt="linkedin" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
