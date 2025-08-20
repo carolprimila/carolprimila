@@ -20,6 +20,11 @@
 
 ---
 
-## onde me encontrar ?
-- [linkedin](https://linkedin.com/in/seu-link-aqui)  
-- [![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)(https://www.instagram.com/carolprimila)
+## 📫 onde me encontrar
+
+<a href="https://linkedin.com/in/seu-link-aqui" target="_blank">
+  <img align="center" alt="linkedin" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a>
+<a href="https://instagram.com/seu-user-aqui" target="_blank">
+  <img align="center" alt="instagram" width="30px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" />
+</a>
