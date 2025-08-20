@@ -1,6 +1,6 @@
-## 👋 oi, eu sou a carol
+# oi, eu sou a carol 👋
 
-<a href="https://github.com/carolprimila/carolprimila/raw/main/oioioioi.mp4" target="_blank"> </a>
+<img src="https://github.com/carolprimila/carolprimila/raw/main/oioioioi.gif" width="100px">
 
 🎓 estudante de **sistemas de informação**  
 💻 estagiária na **itaipu binacional – divisão de microinformática**  
