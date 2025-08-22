@@ -15,11 +15,11 @@
 - ferramentas: vscode, visual studio, github 
 
 ---
-<!-- ## 📊 estatísticas do github 
-![carol's github stats](https://github-readme-stats.vercel.app/api?username=carolprimila&show_icons=true&theme=dracula)  
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolprimila&layout=compact&theme=dracula)
+## linguagens em destaque
 
---- -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolprimila&layout=compact&langs_count=6&theme=dracula)
+
+---
 
 ## onde me encontrar ?
 
