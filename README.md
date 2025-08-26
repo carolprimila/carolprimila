@@ -3,7 +3,6 @@
 <img src="https://github.com/carolprimila/carolprimila/raw/main/oioioioi.gif" width="100px">
 
 🎓 estudante de **sistemas de informação**  
-💻 estagiária na **itaipu binacional – divisão de microinformática**  
 📍 paraná, brasil  
 
 ---
