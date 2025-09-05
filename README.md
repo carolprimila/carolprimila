@@ -10,7 +10,7 @@
 ## tecnologias e ferramentas
 
 - estou aprendendo: c#, python 
-- conheço o básico de: html, css, javascript, typescript
+- conheço o básico de: html, css, javascript, typescript, php
 - ferramentas: vscode, visual studio, github 
 
 ---
